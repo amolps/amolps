@@ -8,7 +8,7 @@
 - Deep Learning
 - Generative AI and LLMs 
 - Natural language processing
-- Experienced with TensorFlow, and Keras
+- Experienced with TensorFlow, Pytorch and Keras
 - Thrive on tackling complex challenges and leveraging technology to solve real-world problems. 🚀🧠
 
 #### Connect:
