@@ -16,6 +16,9 @@ I'm excited to connect with like-minded individuals, researchers, and industry p
 
 Now, I'm excited to share my expertise and insights with you through this platform. Join me as we explore the fascinating world of machine learning, delve into innovative projects, and collaborate to drive meaningful change.
 
+#### Reach out to me on Linkedin :
+https://www.linkedin.com/in/amolsuryavanshi/
+
 <!--
 **amolps/amolps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
