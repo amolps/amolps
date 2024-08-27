@@ -3,7 +3,6 @@
 ## Amol Pramod Suryavanshi
 
 #### Skills & Expertise:
-- Proficient in 🐍 Python programming language
 - Machine Learning
 - Deep Learning
 - Generative AI and LLMs 
